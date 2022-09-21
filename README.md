@@ -14,8 +14,8 @@ Use the site to find information about how Horiseon can help you optimize your c
 
 ## Screenshots
 
-<img src="assets/images/Screenshot1.jpg" width="100"/>
-<img src="assets/images/Screenshot2.jpg" width="100"/>
+<img src="assets/images/Screenshot1.jpg"/>
+<img src="assets/images/Screenshot2.jpg"/>
 
 ## Credits
 
