@@ -12,6 +12,11 @@ N/A
 
 Use the site to find information about how Horiseon can help you optimize your company's visibility on the web. 
 
+## Screenshots
+
+assets/images/Screenshot1.jpg
+assets/images/Screenshot2.jpg
+
 ## Credits
 
 N/A
